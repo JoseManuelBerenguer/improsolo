@@ -1,5 +1,5 @@
 # Improsolo
-8 agents improvisation based on soundfiles 
+2 groups of 8 agents improvisation based on soundfiles 
 
 Improsolo is an application that takes audio files of about 40 to 50 minutes to feed the behavior of two groups of 8 computational agents that act as improvisers.
 
